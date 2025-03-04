@@ -5,3 +5,12 @@
 OA SOY NADIE
 
 ![Slowdive album cover](https://thefirenote.com/wp-content/uploads/2017/05/slowdive.jpg)
+
+# AKI MY OCDE OF C PROGRAMMING LANGUAGE
+``` c
+#include <stdio.h>
+int main() {
+  printf("Hello, World!\n");
+  return 0;
+}
+```
