@@ -7,6 +7,7 @@ OA SOY NADIE
 ![Slowdive album cover](https://thefirenote.com/wp-content/uploads/2017/05/slowdive.jpg)
 
 # AKI MY OCDE OF C PROGRAMMING LANGUAGE
+
 ``` c
 #include <stdio.h>
 int main() {
@@ -14,3 +15,9 @@ int main() {
   return 0;
 }
 ```
+
+# AKI UNA LIST DE XIL
+
+- [ ] oa
+- [ ] como tan xicos del utu
+- [ ] asdkasdasd
